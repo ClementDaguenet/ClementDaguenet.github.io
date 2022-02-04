@@ -102,3 +102,20 @@
     font-weight: normal;
     font-style: italic; 
 }
+
+.cadreInterets{
+    width: 100%;
+    font-size: small;
+    padding-top: 10px;
+}
+
+.interets{
+    font-weight: bold;
+    display: list-item;
+    margin-left: 25px;    
+}
+
+.detailInterets{ 
+    font-weight: normal;
+    font-style: italic; 
+}
