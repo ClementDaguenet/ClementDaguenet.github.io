@@ -119,3 +119,20 @@
     font-weight: normal;
     font-style: italic; 
 }
+
+.cadreContact{
+    width: 100%;
+    font-size: small;
+    padding-top: 10px;
+}
+
+.contact{
+    font-weight: bold;
+    display: list-item;
+    margin-left: 25px;    
+}
+
+.detailContact{ 
+    font-weight: normal;
+    font-style: italic; 
+}
